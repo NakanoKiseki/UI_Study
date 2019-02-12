@@ -61,7 +61,6 @@ namespace Twitter.UI
 
         private void OnRetweetClick()
         {
-            Debug.Log("OnRetweetClick");
             OnRetweetButtonClickAction();
         }
 
